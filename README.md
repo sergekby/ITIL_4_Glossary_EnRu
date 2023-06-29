@@ -10,6 +10,6 @@
 - ITIL 4: Digital and IT Strategy
 - ITIL 4: Acquiring and managing cloud services
 
-Термин представлен на английском языке. За ним следует русский перевод этого термина и обозначение (описание) на русском языке.<br>
+Термин представлен на английском языке. За ним следует русский перевод этого термина и обозначение (описание) на русском языке.<br><br>
 `Constructive feedback and suggestions are always welcome!`<br>
 <b>Обратная связь через</b> [Telegram "Академия Айтиэра"](https://t.me/itera_academy)
