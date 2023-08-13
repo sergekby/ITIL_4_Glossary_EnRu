@@ -11,6 +11,6 @@
 - ITIL 4: Acquiring and managing cloud services
 
 Термин представлен на английском языке. За ним следует русский перевод этого термина и обозначение (описание) на русском языке.<br><br>
-[Страница общей колоды](https://ankiweb.net/shared/info/1482038063)
+[Страница общей колоды](https://ankiweb.net/shared/info/1482038063)<br><br>
 `Constructive feedback and suggestions are always welcome!`<br>
 <b>Обратная связь через</b> [Telegram "Академия Айтиэра"](https://t.me/itera_academy)
